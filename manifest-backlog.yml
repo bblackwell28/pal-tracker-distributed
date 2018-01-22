@@ -8,3 +8,4 @@ applications:
     REGISTRATION_SERVER_ENDPOINT: http://registration-pal-km-mw.apps.pikes.pal.pivotal.io
   services:
   - tracker-backlog-database
+  - tracker-service-registry
